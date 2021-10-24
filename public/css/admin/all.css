@@ -1,0 +1,21 @@
+.custom-alert  {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 10000;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+}
+.invalid-feedback {
+    display: block;
+}
+.custom-file-preview img {
+    max-width: 200px;
+    max-height: 200px;
+}
+.table-action {
+    width: 100px;
+}
+.table-id {
+    width: 20px;
+}
